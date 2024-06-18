@@ -25,3 +25,7 @@ opendir.exe 使用私钥解密指定文件夹中的所有内容 比如：opendir
 
 目前在windows和linux上进行了测试
 
+![Image text](https://github.com/yangksafe/lockdir/blob/main/%E6%8D%95%E8%8E%B7.PNG)
+
+![Image text](https://github.com/yangksafe/lockdir/blob/main/%E6%8D%95%E8%8E%B71.PNG)
+
