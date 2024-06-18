@@ -1,0 +1,6 @@
+go build -ldflags "-s -w -H=windowsgui"
+
+-s 省略符号表和调试信息
+-w Omit the DWARF symbol table 省略DWARF符号表
+-H windowsgui  不打印信息到console （On Windows, -H windowsgui writes a "GUI binary" instead of a "console binary."），就不会有cmd窗口了
+
